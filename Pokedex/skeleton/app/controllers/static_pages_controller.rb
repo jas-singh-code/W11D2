@@ -1,4 +1,4 @@
-class StaticPagesController < ApplicationController
+class Api::StaticPagesController < ApplicationController
   def root
   end
 end
